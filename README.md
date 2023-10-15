@@ -1,1 +1,0 @@
-# Kodluyoruz_BaslangicSeviyesi_BackEnd_Patikasi
