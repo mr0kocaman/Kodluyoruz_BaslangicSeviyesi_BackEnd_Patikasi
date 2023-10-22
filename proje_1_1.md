@@ -12,5 +12,4 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
  
 Answers 1: 
 
-![alt text][def = Ekran görüntüsü 2023-10-22 150632.png]
-[def]: https://github.com/mr0kocaman/Kodluyoruz_BaslangicSeviyesi_BackEnd_Patikasi/blob/main/image.png
+![alt text](https://github.com/mr0kocaman/Kodluyoruz_BaslangicSeviyesi_BackEnd_Patikasi/blob/main/image-1.png)
