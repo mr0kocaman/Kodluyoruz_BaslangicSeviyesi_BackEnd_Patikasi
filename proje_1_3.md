@@ -8,7 +8,9 @@ Answers 3:
 ![alt text](https://github.com/mr0kocaman/Kodluyoruz_BaslangicSeviyesi_BackEnd_Patikasi/blob/main/image-3.png)
 
 Step 1: 7 > 5 olduğu için root'un sağında bulunur. (root 5'tir.)
+
 Step 2: 1 < 5 olduğu için root'un solunda bulunur. (root 5'tir.)
+
 Step 3: 8 > 5 ve 8 > 7 olduğu için root'un sağında bulunur. (root 7'dir.)
 Step 4: 3 < 5 ve 3 > 1 olduğu için root'un sağında bulunur. (root 1'dir.)
 Step 5: 6 > 5 ve 6 < 7 olduğu için root'un solunda bulunur. (root 7'dir.)
