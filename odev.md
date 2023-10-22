@@ -6,6 +6,4 @@ Big-O gösterimini yazınız.
 
  
 Answers 2:
-![alt text](https://github.com/mr0kocaman/Kodluyoruz_BaslangicSeviyesi_BackEnd_Patikasi/blob/main/image.jpg?raw=true)
-
-  
+![alt text](https://github.com/mr0kocaman/Kodluyoruz_BaslangicSeviyesi_BackEnd_Patikasi/blob/main/image.png)
